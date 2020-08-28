@@ -1,5 +1,5 @@
 # sentiment_analysis
-Movie sentiment analysis - Machine Learning and NPL
+Movie sentiment analysis - Machine Learning and NLP
 
 Sentiment Analysis is a common task in Natural Language Processing (NLP). One application of sentiment analysis is to predict whether a movie review should be classified as positive or negative using machine learning classification algorithms.
 
